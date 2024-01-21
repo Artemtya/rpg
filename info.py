@@ -115,7 +115,7 @@ locations = {
         'photo': '3_5_1.jpg',
         'options': {
             'Вернуться в городской центр': 'location3_5',
-            'Покинуть магазин': 'location3_5'
+            'Покинуть магазин': 'location3_5_3'
         }
     },
     'location3_5_2': {
@@ -123,7 +123,7 @@ locations = {
         'photo': '3_5_2.jpg',
         'options': {
             'Вернуться в городской центр': 'location3_5',
-            'Покинуть таверну': 'location3_5'
+            'Покинуть таверну': 'location3_5_3'
         }
     },
     'location3_5_3': {
